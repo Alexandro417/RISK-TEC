@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Alexandro417/RISK-TEC.git/static/css/main.f3bb619d.css",
+    "main.js": "/Alexandro417/RISK-TEC.git/static/js/main.7cad30ee.js",
+    "static/js/453.d7446e4a.chunk.js": "/Alexandro417/RISK-TEC.git/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/Alexandro417/RISK-TEC.git/index.html",
+    "main.f3bb619d.css.map": "/Alexandro417/RISK-TEC.git/static/css/main.f3bb619d.css.map",
+    "main.7cad30ee.js.map": "/Alexandro417/RISK-TEC.git/static/js/main.7cad30ee.js.map",
+    "453.d7446e4a.chunk.js.map": "/Alexandro417/RISK-TEC.git/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3bb619d.css",
+    "static/js/main.7cad30ee.js"
+  ]
+}
