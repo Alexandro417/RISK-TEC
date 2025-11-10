@@ -1,23 +1,28 @@
-{ 
-  "homepage": "https://github.com/Alexandro417/RISK-TEC.git",
+{
+  "homepage": "https://Alexandro417.github.io/RISK-TEC",
   "name": "frontend",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@testing-library/dom": "^10.4.1",
-    "@testing-library/jest-dom": "^6.8.0",
-    "@testing-library/react": "^16.3.0",
-    "@testing-library/user-event": "^13.5.0",
-    "axios": "^1.12.2",
-    "bootstrap": "^5.3.8",
+    "@testing-library/jest-dom": "^6.4.0",
+    "@testing-library/react": "^14.2.1",
+    "@testing-library/user-event": "^14.5.2",
+    "ajv": "^8.12.0",
+    "ajv-keywords": "^5.1.0",
+    "axios": "^1.7.8",
+    "bootstrap": "^5.3.3",
     "leaflet": "^1.9.4",
+    "lucide-react": "^0.553.0",
     "mapbox-gl": "^3.15.0",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
     "react-leaflet": "^5.0.0",
     "react-map-gl": "^8.1.0",
     "react-router-dom": "^7.9.4",
-    "tailwindcss": "^4.1.13",
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^3.4.13",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -27,7 +32,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
   },
   "eslintConfig": {
     "extends": [
@@ -46,9 +50,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0",
-    "react-scripts": "^5.0.1"
   }
 }
