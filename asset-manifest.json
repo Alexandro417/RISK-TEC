@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/RISK-TEC/static/css/main.f3bb619d.css",
-    "main.js": "/RISK-TEC/static/js/main.7a630e67.js",
+    "main.css": "/RISK-TEC/static/css/main.1d1e2539.css",
+    "main.js": "/RISK-TEC/static/js/main.5df96f59.js",
     "static/js/453.d7446e4a.chunk.js": "/RISK-TEC/static/js/453.d7446e4a.chunk.js",
+    "static/media/login.png": "/RISK-TEC/static/media/login.2803c0e518c18241d94a.png",
     "index.html": "/RISK-TEC/index.html",
-    "main.f3bb619d.css.map": "/RISK-TEC/static/css/main.f3bb619d.css.map",
-    "main.7a630e67.js.map": "/RISK-TEC/static/js/main.7a630e67.js.map",
+    "main.1d1e2539.css.map": "/RISK-TEC/static/css/main.1d1e2539.css.map",
+    "main.5df96f59.js.map": "/RISK-TEC/static/js/main.5df96f59.js.map",
     "453.d7446e4a.chunk.js.map": "/RISK-TEC/static/js/453.d7446e4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3bb619d.css",
-    "static/js/main.7a630e67.js"
+    "static/css/main.1d1e2539.css",
+    "static/js/main.5df96f59.js"
   ]
 }
