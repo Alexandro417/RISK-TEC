@@ -1,5 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import LoginPage from "./pages/login/LoginPage.jsx";
+import RegisterPage from "./pages/register/RegisterPage.jsx";
 import Dashboard from "./pages/Dashboard.jsx";
 import ReportesPage from "./pages/ReportesPage.jsx";
 import AdminLayout from "./layouts/AdminLayout.jsx";
@@ -21,6 +22,9 @@ function App() {
     <Routes>
       {/* Login */}
       <Route path="/" element={<LoginPage />} />
+
+      {/* Registro */}
+      <Route path="/register" element={<RegisterPage />} />
 
       {/* Rutas generales */}
       <Route path="/dashboard" element={<Dashboard />} />
